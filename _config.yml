@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: Plato Blog site
+tagline: A responsive theme for your project on GitHub Pages
+baseurl: ''
+paginate: 1
+locale: en
+author:
+  name: plato lin
+  url: 'https://platolin.github.io'
+gems:
+  - jekyll-paginate
+markdown: kramdown
+exclude:
+  - vendor
